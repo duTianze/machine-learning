@@ -1,2 +1,2 @@
 # machine-learning
-## this is my google colaboratory's code for machina learning
+## this is my google colaboratory's code for machine learning
